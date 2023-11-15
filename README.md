@@ -1,4 +1,4 @@
-# Awesome & Marvelous Amas [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome & Marvelous AMA [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > [AMA](https://en.wikipedia.org/wiki/R/IAmA) → Ask Me Anything
 
@@ -11,10 +11,6 @@
 <a href="https://linkedin.com/in/mcarou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mcarou" height="30" width="40" /></a>
 </p>
 ---
-
-
-*Fun: AMAs is a [recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym).*
-
 
 ## License
 
