@@ -5,7 +5,6 @@
 #### Ask me people anything!
 <h1 align="center">Hi 👋, I'm Miranda Carou</h1>
 - [Miranda Carou]([https://github.com/cooljl31/ama](https://github.com/MirandaCarou/AMA) - Passionate full-stack developer, computer science student ❤️ and likes to travel.
-- You cant contact me using
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
