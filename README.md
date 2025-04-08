@@ -4,7 +4,8 @@
 
 #### Ask me people anything!
 <h1 align="center">Hi 👋, I'm Miranda Carou</h1>
-- [Miranda Carou](https://github.com/MirandaCarou/AMA) - Passionate Quantum Computing Research and Computer Scientific ❤️.
+-
+Passionate Quantum Computing Research and Computer Scientific ❤️.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
