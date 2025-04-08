@@ -4,7 +4,7 @@
 
 #### Ask me people anything!
 <h1 align="center">Hi 👋, I'm Miranda Carou</h1>
-- [Miranda Carou](https://github.com/MirandaCarou/AMA) - Passionate full-stack developer, computer science student ❤️ and likes to travel.
+- [Miranda Carou](https://github.com/MirandaCarou/AMA) - Passionate Quantum Computing Research and Computer Scientific ❤️.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
